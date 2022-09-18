@@ -29,6 +29,9 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
+![screencapture-localhost-laraveller-relationship-public-2022-09-18-21_22_56](https://user-images.githubusercontent.com/35094497/190917493-59070299-04a2-44e9-ba45-bd2189735f3e.png)
+
+
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Premium Partners
